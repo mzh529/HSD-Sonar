@@ -14,6 +14,7 @@ pip3 install -r requirements.txt
 
 ## Training
 1.You are expected to see the following file structres otherwise you need to manually rename those directory into the correct one.
+``` 
 DATA_FOLDER
 ├── train
 │   ├── tr_1.png
