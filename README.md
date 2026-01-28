@@ -1,5 +1,5 @@
 
-# The code corresponds to an initial version and may differ in some aspects from the description in the paper. We will continue to update and refine the code in future releases.
+#The code corresponds to an initial version and may differ in some aspects from the description in the paper. We will continue to update and refine the code in future releases.
 # HSD-Sonar
 ## Environments
 # Install all required packages
